@@ -1,2 +1,2 @@
-x=input()
-print(len(x.replace(' ','')))
+g=input()
+print(len(g.replace(' ','')))
